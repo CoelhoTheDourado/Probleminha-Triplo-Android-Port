@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle.exe"
+		},
+		{
+			"offsets": [
+				-62,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down.Exe"
+		},
+		{
+			"offsets": [
+				20,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left.exe"
+		},
+		{
+			"offsets": [
+				8,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up.exe"
+		},
+		{
+			"offsets": [
+				-36,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right.exe"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gabs.Exe",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gabsexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		0,
+		195
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
